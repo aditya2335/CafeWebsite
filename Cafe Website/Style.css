@@ -1,0 +1,48 @@
+h1{
+    font-family: cursive;
+    color: BLACK;
+    background-color:white ;
+    padding: 10px;
+}
+header{
+     background-color: orange;
+}
+
+p{
+   font-size: larger;
+   background-color:yellow;
+   color: black;
+   text-align: center;
+}
+
+body{
+    background-color: white;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+footer{
+    font-size: larger;
+    color:blue;
+    text-align: center;
+}
+
+nav a{
+    background-color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10%;
+    width: 20px;
+    text-align: center;
+    padding: 10px;
+    background:rgb(249, 193, 4);
+    color:black;
+    margin: 10px;
+    margin-top: 50px;
+}
+
+nav a:hover{
+    transition:0.8 ease;   
+    background-color:orange;
+}
+
